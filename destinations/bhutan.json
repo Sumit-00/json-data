@@ -1,0 +1,29 @@
+{
+  "trips": [
+    {
+      "trip-name": "Himalayan Kingdom Explorer",
+      "price": 3299,
+      "duration": "7 days",
+      "image": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739005199/himalaya_kjt686.jpg",
+      "amenities": [
+        "Traditional hotel stays",
+        "Tiger's Nest hike",
+        "Cultural shows",
+        "Visa arrangement",
+        "All meals"
+      ]
+    },
+    {
+      "trip-name": "Bhutan Cultural Journey",
+      "price": 4199,
+      "duration": "11 days",
+      "amenities": [
+        "Luxury hotels",
+        "Festival attendance",
+        "Mountain hiking",
+        "Private guide",
+        "All inclusive"
+      ]
+    }
+  ]
+}
