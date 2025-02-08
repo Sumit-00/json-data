@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "trip-name": "Safari & Cape Experience",
+      "price": 3499,
+      "duration": "9 days",
+      "amenities": [
+        "Lodge accommodation",
+        "Game drives",
+        "Wine tasting",
+        "Local guides",
+        "All meals on safari"
+      ]
+    },
+    {
+      "trip-name": "Ultimate African Adventure",
+      "price": 4599,
+      "duration": "14 days",
+      "amenities": [
+        "Luxury lodges",
+        "Private safari vehicle",
+        "Helicopter tour",
+        "Cultural experiences",
+        "All inclusive"
+      ]
+    }
+  ]
+}

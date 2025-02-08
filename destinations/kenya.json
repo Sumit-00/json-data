@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "trip-name": "Masai Mara Safari",
+      "price": 2899,
+      "duration": "6 days",
+      "amenities": [
+        "Tented camp accommodation",
+        "Game drives",
+        "Masai village visit",
+        "All meals",
+        "Park fees"
+      ]
+    },
+    {
+      "trip-name": "Kenya Wildlife & Beach",
+      "price": 3799,
+      "duration": "10 days",
+      "amenities": [
+        "Mixed accommodation",
+        "Safari experience",
+        "Beach resort stay",
+        "Internal flights",
+        "Full board during safari"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "trip-name": "Turkish Delight Tour",
+      "price": 1899,
+      "duration": "7 days",
+      "amenities": [
+        "4-star hotels",
+        "Hot air balloon ride",
+        "Traditional hammam experience",
+        "Guided tours",
+        "Daily breakfast"
+      ]
+    },
+    {
+      "trip-name": "Grand Turkey Adventure",
+      "price": 2799,
+      "duration": "10 days",
+      "amenities": [
+        "Luxury accommodation",
+        "Bosphorus cruise",
+        "Cooking class",
+        "All transfers",
+        "Most meals included"
+      ]
+    }
+  ]
+}

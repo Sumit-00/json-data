@@ -1,0 +1,28 @@
+{
+  "trips": [
+    {
+      "trip-name": "Pyramids & Nile Adventure",
+      "price": 2499,
+      "duration": "8 days",
+      "amenities": [
+        "5-star hotel accommodation",
+        "Nile cruise",
+        "Private guided tours",
+        "Airport transfers",
+        "Daily breakfast"
+      ]
+    },
+    {
+      "trip-name": "Ancient Egypt Explorer",
+      "price": 3299,
+      "duration": "12 days",
+      "amenities": [
+        "Luxury accommodation",
+        "Desert safari",
+        "All meals included",
+        "Professional Egyptologist guide",
+        "Internal flights"
+      ]
+    }
+  ]
+}
