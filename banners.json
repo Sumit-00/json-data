@@ -1,0 +1,16 @@
+{
+  "banners": [
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739002714/ocean-7890172_1280_wikk5e.jpg",
+      "alt": "banner_1"
+    },
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739002955/hot-air-ballons_vlbpaw.jpg",
+      "alt": "banner_2"
+    },
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739003014/germany_j885ao.jpg",
+      "alt": "banner_3"
+    }
+  ]
+}

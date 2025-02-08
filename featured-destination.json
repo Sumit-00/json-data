@@ -1,0 +1,29 @@
+{
+  "destination": [
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739004325/egypt_scwdiy.jpg",
+      "title": "Egypt",
+      "handle": "egypt"
+    },
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739004393/turkey_urabbl.jpg",
+      "title": "Turkey",
+      "handle": "turkey"
+    },
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739004461/south-africa_ifpult.jpg",
+      "title": "South Africa",
+      "handle": "south-africa"
+    },
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739004527/kenya_eaeull.jpg",
+      "title": "Kenya",
+      "handle": "kenya"
+    },
+    {
+      "img": "https://res.cloudinary.com/dradkp5i6/image/upload/v1739004579/bhutan_qw3z0m.jpg",
+      "title": "Bhutan",
+      "handle": "bhutan"
+    }
+  ]
+}
